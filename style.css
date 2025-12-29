@@ -1,7 +1,6 @@
-.c1{
-    width:100% !important
-}
-
-body{
-    overflow-x: hidden !important;
+.circle{
+    width: 50px !important;
+    height: 50px !important;
+    color: yellow  !important;
+    border-radius: 50% !important;
 }
