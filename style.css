@@ -4,3 +4,16 @@
     color: yellow  !important;
     border-radius: 50% !important;
 }
+
+
+.scale{
+    transition: transform 2s ease !important;
+}
+
+.scale:hover{
+    transform: scale(1.3) !important;
+}
+
+.flinks{
+    list-style-type:none;
+}
